@@ -25,7 +25,6 @@ interests:
   - Machine Learning
   - Ethics, Bias, and Fairness
   - Natural Language Understanding
-  - AI Interpretability and Reliability
   - Computational Social Science
 
 education:

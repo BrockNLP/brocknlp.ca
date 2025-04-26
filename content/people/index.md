@@ -14,6 +14,8 @@ sections:
           - Director
           - MSc Students
           - Researchers
+          - Past Researchers
+          - Visiting Researchers
           - Alumni
       sort_by: Params.last_name
       sort_ascending: true
