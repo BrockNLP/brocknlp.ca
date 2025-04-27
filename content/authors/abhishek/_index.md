@@ -1,20 +1,22 @@
 ---
 # Display name
-title: Kazi Nishat Anwar
+title: Abhishek Kumar
 
 # Full Name (for SEO)
-first_name: Kazi
-last_name: Nishat Anwar
+first_name: Abhishek
+last_name: Kumar
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: MSc. Student - Computer Science
+role: Full-Stack Data Systems Specialist - 360 Energy Inc.
 
 # Organizations/Affiliations
 organizations:
-  - name: Brock University
+  - name: Brock University, Canada
+    url: ''
+  - name: Punjab Engineering College University of Technology, India
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,12 +24,16 @@ bio:
 
 interests:
   - Natural Language Processing
+  - Bias & Fairness
 
 education:
   courses:
-    - course: BS in Computer Science
-      institution: BRAC University, Bangladesh
-      year: 2023
+    - course: MSc in Computer Science
+      institution: Brock University, Canada
+      year: 2024
+    - course: BS in Computer Science & Engineering
+      institution: Punjab Engineering College University of Technology, India
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -52,7 +58,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - MSc Students
+  - Alumni
 ---
 
-Kazi Nishat Anwar is a Master of Science student at Brock University under the joint advisement of Dr. Ali Emami and Dr. Rahnuma Islam Nishat. He completed a Bachelor of Science in Computer Science at BRAC University in 2023.
+Abhishek Kumar is a Full-Stack Data Systems Specialist at 360 Energy Inc. He achieved his Master of Science in Computer Science at Brock University under the advisement of Dr. Ali Emami in 2024, and received his Bachelor of Science in Computer Science & Engineering at the Punjab Engineering College University of Technology in 2018.

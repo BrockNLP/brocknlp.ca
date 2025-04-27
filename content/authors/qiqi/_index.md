@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Kazi Nishat Anwar
+title: QiQi Gao
 
 # Full Name (for SEO)
-first_name: Kazi
-last_name: Nishat Anwar
+first_name: QiQi
+last_name: Gao
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,12 +22,13 @@ bio:
 
 interests:
   - Natural Language Processing
+  - LLMs for Character Dialogue
 
 education:
   courses:
-    - course: BS in Computer Science
-      institution: BRAC University, Bangladesh
-      year: 2023
+    - course: BSc in Computer Science
+      institution: Brock University, Canada
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -52,7 +53,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - MSc Students
+  - Alumni
 ---
 
-Kazi Nishat Anwar is a Master of Science student at Brock University under the joint advisement of Dr. Ali Emami and Dr. Rahnuma Islam Nishat. He completed a Bachelor of Science in Computer Science at BRAC University in 2023.
+QiQi Gao is an MSc. Student under the advisement of Dr. Yifeng Li and former Undergraduate Researcher under the advisement of Dr. Ali Emami. He completed his Bachelor of Science in Computer Science at Brock University in 2024.

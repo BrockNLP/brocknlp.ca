@@ -1,15 +1,15 @@
 ---
-title: NYT-Connections Wins Best Dataset Paper!
-date: 2025-01-23
+title: BrockNLP Lab Authors Accepted to NAACL 2025
+date: 2025-01-22
 image:
   focal_point: 'top'
 ---
 
-Congratulations to BrockNLP Researchers **Angel Yahir Loredo Lopez** (Mitacs Globalink Intern 2024), **Tyler McDonald** (Undergraduate Researcher), and **Ali Emami** (Director) on receiving the **COLING 2025 Best Dataset Paper Award** for their work, *NYT-Connections: A Deceptively Simple Text Classification Task that Stumps System-1 Thinkers*!
+Congratulations to BrockNLP Researchers **Sangmitra Madhusudan** (Undergraduate Researcher), **Robert Morabito** (MSc Student), **Skye Reid** (Undergraduate Researcher), **Nikta Gohari Sadr** (MSc Student), and **Ali Emami** (Director) for the acceptance of their upcoming publication, *Fine-Tuned LLMs are "Time Capsules" for Tracking Societal Bias Through Books**, to **NAACL 2025**!
 
-*NYT-Connections* is a dataset formed of daily Connections word puzzles published by the New York Times. Testing reveals that state-of-the-art LLMs still **fall short of human benchmarks,** with advanced prompting techniques like Chain-of-Thought Prompting offering **diminishing returns as task difficulty increases.**
+Their work fine-tunes Large Language Models on *BookPAGE*, a collection of 593 fictional books across seven decades, to analyze the evolution of societal bias across generations. Their findings reveal troubling sparks in bias with respect to gender and religious biases especially.
 
-You can read the paper [here](https://arxiv.org/pdf/2412.01621) and can access the dataset [here!](https://huggingface.co/datasets/tm21cy/NYT-Connections)
+Their work has been accepted to the upcoming **NAACL 2025** conference to be held in Albuquerque, New Mexico from April 29th to May 4th.
 
 **Abstract:**
 

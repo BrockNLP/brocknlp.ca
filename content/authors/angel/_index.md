@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Kazi Nishat Anwar
+title: Angel Yahir Loredo Lopez
 
 # Full Name (for SEO)
-first_name: Kazi
-last_name: Nishat Anwar
+first_name: Angel
+last_name: Yahir Loredo Lopez
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: MSc. Student - Computer Science
+role: BS. Graduate - UASLP
 
 # Organizations/Affiliations
 organizations:
-  - name: Brock University
+  - name: Universidad Autónoma de San Luis Potosí, Mexico
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,12 +22,13 @@ bio:
 
 interests:
   - Natural Language Processing
+  - LLM Reasoning
 
 education:
   courses:
-    - course: BS in Computer Science
-      institution: BRAC University, Bangladesh
-      year: 2023
+    - course: BS in Intelligent Systems Engineering & Computer Science
+      institution: Universidad Autónoma de San Luis Potosí, Mexico
+      year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -52,7 +53,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - MSc Students
+  - Visiting Researchers
 ---
 
-Kazi Nishat Anwar is a Master of Science student at Brock University under the joint advisement of Dr. Ali Emami and Dr. Rahnuma Islam Nishat. He completed a Bachelor of Science in Computer Science at BRAC University in 2023.
+Angel Yahir Loredo Lopez is a 2024 Mitacs Globalink Research Intern working at Brock University under the advisement of Dr. Ali Emami. He achieved his Bachelor of Science in Intelligent Systems Engineering & Computer Science from Universidad Autónoma de San Luis Potosí in 2025.

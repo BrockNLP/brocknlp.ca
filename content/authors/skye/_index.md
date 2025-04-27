@@ -56,4 +56,4 @@ user_groups:
   - Alumni
 ---
 
-Sarfaroz Yunusov is a Master of Science student at Brock University
+Skye Reid is a Bachelor of Science Graduate and former Undergraduate Researcher under the advisement of Dr. Ali Emami. They completed their Bachelor of Science in Computer Science at Brock University in 2025.

@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Kazi Nishat Anwar
+title: Ghofrane Faidi
 
 # Full Name (for SEO)
-first_name: Kazi
-last_name: Nishat Anwar
+first_name: Ghofrane
+last_name: Faidi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: MSc. Student - Computer Science
+role: BSc. Graduate - INSAT
 
 # Organizations/Affiliations
 organizations:
-  - name: Brock University
+  - name: Institut National des Sciences Appliquées et de Technologie, Tunisia
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -25,9 +25,9 @@ interests:
 
 education:
   courses:
-    - course: BS in Computer Science
-      institution: BRAC University, Bangladesh
-      year: 2023
+    - course: BSc in Computer Systems Networking and Telecommunications
+      institution: Institut National des Sciences Appliquées et de Technologie, Tunisia
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -52,7 +52,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - MSc Students
+  - Visiting Researchers
 ---
 
-Kazi Nishat Anwar is a Master of Science student at Brock University under the joint advisement of Dr. Ali Emami and Dr. Rahnuma Islam Nishat. He completed a Bachelor of Science in Computer Science at BRAC University in 2023.
+Ghofrane Faidi is a 2024 Mitacs Globalink Research Intern working at Brock University under the advisement of Dr. Ali Emami. She achieved her Bachelor of Science in Computer Systems Networking and Telecommunications from the Institut National des Sciences Appliquées et de Technologie in 2024.

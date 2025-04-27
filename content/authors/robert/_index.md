@@ -31,6 +31,9 @@ education:
     - course: BSc in Computer Science
       institution: Brock University, Canada
       year: 2024
+    - course: Advanced Diploma in Game Development
+      institution: Niagara College, Canada
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -61,4 +64,4 @@ user_groups:
   - MSc Students
 ---
 
-Robert Morabito is a Master of Science student at Brock University under the advisement of Dr. Ali Emami. He completed his Bachelor of Science in Computer Science under the advisement of Dr. Ali Emami in 2024. 
+Robert Morabito is a Master of Science student at Brock University under the advisement of Dr. Ali Emami. He completed his Bachelor of Science in Computer Science under the advisement of Dr. Ali Emami in 2024, and completed his Advanced Diploma in Game Development from Niagara College in 2019.

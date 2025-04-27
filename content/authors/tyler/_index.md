@@ -70,4 +70,4 @@ Tyler McDonald is a Master of Science student at Brock University under the join
 
 Tyler's research focuses on the use and deployment of regional LLMs, specifically how regional LLMs differ in linguistic ability and bias recognition. He is also interested in evaluating the deliberate reasoning abilities of LLMs through novel puzzles and benchmarks, as well as cost efficacy in recent LLM research.
 
-Tyler has received a Best Dataset Paper Award (COLING 2025) as well as a Social Impact Award (EMNLP 2024), and has been published several times in multiple top-tier NLP conferences (ACL 2024, EMNLP 2024, COLING 2025).
+Tyler has received a Best Dataset Paper Award (COLING 2025) as well as a Social Impact Paper Award (EMNLP 2024), and has been published several times in multiple top-tier NLP conferences, such as the Association for Computational Linguistics, Empirical Methods in Natural Language Processing, and the Conference on Computational Linguistics.

@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Kazi Nishat Anwar
+title: Kaige Chen
 
 # Full Name (for SEO)
-first_name: Kazi
-last_name: Nishat Anwar
+first_name: Kaige
+last_name: Chen
 
 # Is this the primary user of the site?
 superuser: false
@@ -26,8 +26,8 @@ interests:
 education:
   courses:
     - course: BS in Computer Science
-      institution: BRAC University, Bangladesh
-      year: 2023
+      institution: McGill University, Canada
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -55,4 +55,4 @@ user_groups:
   - MSc Students
 ---
 
-Kazi Nishat Anwar is a Master of Science student at Brock University under the joint advisement of Dr. Ali Emami and Dr. Rahnuma Islam Nishat. He completed a Bachelor of Science in Computer Science at BRAC University in 2023.
+Kaige Chen is a Master of Science student at Brock University under the advisement of Dr. Ali Emami. He completed a Bachelor of Science in Computer Science at McGill University in 2021.
